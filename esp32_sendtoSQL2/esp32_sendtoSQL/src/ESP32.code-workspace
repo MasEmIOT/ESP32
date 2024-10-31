@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "testWifi_AP",
+			"path": "../../../esp32_testWifi_AP/testWifi_AP"
+		},
+		{
+			"name": "esp32_mqttclient",
+			"path": "../../../esp32_mqttclient/esp32_mqttclient"
+		},
+		{
+			"name": "esp32_rapsberrypiMqtt",
+			"path": "../../../esp32_rapsberrypiMqtt"
+		},
+		{
+			"name": "esp32_sendtoSQL",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}

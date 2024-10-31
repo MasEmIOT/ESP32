@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "esp32_sendtoSQL",
+			"path": "../../esp32_sendtoSQL/esp32_sendtoSQL"
+		},
+		{
+			"name": "esp32_sendtoSQL",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
