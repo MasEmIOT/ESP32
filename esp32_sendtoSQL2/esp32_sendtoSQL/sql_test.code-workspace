@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Denso_factory_hack_2024/Vong3/sql_test"
+		},
+		{
+			"name": "esp32_rapsberrypiMqtt",
+			"path": "../../esp32_rapsberrypiMqtt"
+		},
+		{
+			"name": "esp32_sendtoSQL",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

@@ -141,5 +141,6 @@ void loop() {
     //     Serial.print(line);
         
     // }
+    delay(250);
   }
   
